@@ -2,9 +2,6 @@
 <h3 align="center">A passionate full-stack developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/67379280?s=400&u=c2f35e42c34fba830feda16e0dc014d1b9fcb239&v=4" alt="ashutosh-pmishra" /> </p>
-
 - 🔭 I’m currently working on Cogent e-services pvt ltd. **Employee Management System(EMS)**
 
 - 🌱 I’m currently learning **Laravel , Core PHP**
